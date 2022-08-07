@@ -4,6 +4,9 @@ https://coveryourtracks.eff.org/
 https://privacy.net/analyzer/#pre-load
 Advanced: https://browserleaks.com/
 
+Take note of how many bits of information are being leaked as well as if your actual IP address/location is visible.
+
+
 Understanding web trackers
 
 When you visit a website, your browser makes a "request" for that site. In the background, advertising code and invisible trackers on that site might also cause your browser to make dozens or even hundreds of requests to other hidden third parties. Each request contains several pieces of information about your browser and about you, from your time zone to your browser settings to what versions of software you have installed.
@@ -26,7 +29,23 @@ Which browser should I use?
 Short answer: Mozilla Firefox
 I rank Firefox second when put next to Tor browser, but for everyday use Firefox is your best bet.
 
-Firefox is the only widely used web browser that is completely open-source. Anyone can examine Firefox’s source code, making sure there are no sketchy elements (like tracking software) baked into the final product. This is completely different than browsers like Chrome, and MS Edge who collect as much as they can from it's users. 
+Firefox is the only widely used web browser that is completely open-source. Anyone can examine Firefox’s source code, making sure there are no sketchy elements (like tracking software) baked into the final product. This is completely different than browsers like Chrome, and MS Edge who collect as much as they can from it's users. Out of the box, Mozilla is much more secure than it's competitors, and better yet it gives you complete control over your security. It is also relatively lightweight and won't bog down your machine by running tens of background processes. 
+
+Firefox Hardening:
+understand that you sacrifice sonvineince when you improve security
+Figure out how important your privacy is to you
+
+Excerpt from github user "arkenfox" who is the creator of broswerhardening repository that I used.
+"We recommend keeping extensions to a minimum: they have privileged access within your browser, require you to trust the developer, can make you stand out, and weaken site isolation.
+
+This list covers privacy and security related extensions only. While we believe these are the very best of the best, this can be subjective depending on your needs. We are also not saying you have to use all these extensions."
+
+Guide I used
+https://github.com/arkenfox/user.js/wiki/4.1-Extensions 
+
+
+
+
 
 
 
