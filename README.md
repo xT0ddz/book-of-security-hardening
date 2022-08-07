@@ -18,7 +18,7 @@ For everyone, really. Here everyone can find their favourite tastes. But to be p
 
 
 ### Test your [current data leakage](https://coveryourtracks.eff.org/) through your web browser
-Use this [Advanced test](https://browserleaks.com/) for more information about your data leakage
+* Use this [Advanced test](https://browserleaks.com/) for more information about your data leakage
 
 Take note of how many bits of information are being leaked as well as if your actual IP address/location is visible.
 
