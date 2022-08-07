@@ -1,4 +1,20 @@
+<p align="center">"<i>Those who would give up essential liberty to purchase a little temporary safety, deserve neither liberty nor safety.</i>"</p>
 
+
+## 🔒 &nbsp;What is it?
+
+This repository is a collection of various materials and tools that I use every day in my work. It contains a lot of useful information gathered in one piece. It is an invaluable source of knowledge for me that I often look back on.
+
+## :restroom: &nbsp;For whom?
+
+For everyone, really. Here everyone can find their favourite tastes. But to be perfectly honest, it is aimed towards System and Network administrators, DevOps, Pentesters, and Security Researchers.
+
+## :information_source: &nbsp;Contributing
+
+If you find something which doesn't make sense, or something doesn't seem right, please make a pull request and please add valid and well-reasoned explanations about your changes or comments.
+
+
+###
 Test your current data leakage through your web browser
 https://coveryourtracks.eff.org/
 https://privacy.net/analyzer/#pre-load
