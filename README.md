@@ -1,5 +1,8 @@
 <p align="center">"<i>Those who would give up essential liberty to purchase a little temporary safety, deserve neither liberty nor safety.</i>"</p>
 
+<p align="center"><a href="https://www.freeiconspng.com/img/5264" title="Image from freeiconspng.com"><img src="https://www.freeiconspng.com/uploads/skull-icon-25.png" width="350" alt="Skull Hd Icon" /></a></p>
+
+# <p align="center"># xT0ddz guide to Internet Security</p>
 
 ## 🔒 &nbsp;What is it?
 
@@ -9,16 +12,13 @@ This repository is a collection of various materials and tools that I use every 
 
 For everyone, really. Here everyone can find their favourite tastes. But to be perfectly honest, it is aimed towards System and Network administrators, DevOps, Pentesters, and Security Researchers.
 
-## :information_source: &nbsp;Contributing
-
-If you find something which doesn't make sense, or something doesn't seem right, please make a pull request and please add valid and well-reasoned explanations about your changes or comments.
+## 🤡 &nbsp;Current Security Analysis
 
 
-###
-Test your current data leakage through your web browser
-https://coveryourtracks.eff.org/
-https://privacy.net/analyzer/#pre-load
-Advanced: https://browserleaks.com/
+
+
+### Test your [current data leakage](https://coveryourtracks.eff.org/) through your web browser
+Use this [Advanced test](https://browserleaks.com/) for more information about your data leakage
 
 Take note of how many bits of information are being leaked as well as if your actual IP address/location is visible.
 
