@@ -1,31 +1,40 @@
-### <p align="center">"<i>Those who would give up essential liberty to purchase a little temporary safety, deserve neither liberty nor safety.</i>"</p>
+####
+
+ <p align="center">"<i>Those who would give up essential liberty to purchase a little temporary safety, deserve neither liberty nor safety.</i>"</p>
+
+ <br>
+ <br>
+
 
 <p align="center"><a href="https://www.freeiconspng.com/img/5264" title="Image from freeiconspng.com"><img src="https://www.freeiconspng.com/uploads/skull-icon-25.png" width="350" alt="Skull Hd Icon" /></a></p>
+<br>
 
-# <p align="center"> xT0ddz guide to Internet Security</p>
+# <p align="center"> ***xT0ddz guide to Internet Security***</p>
 
 # 🔒 &nbsp;What is it?
 
-    This repository is a collection of various materials and tools that I use every day in my work. It contains a lot of useful information gathered in one piece. It is an invaluable source of knowledge for me that I often look back on.
+#### This repository is a collection of various materials and tools that I use every day in my work. It contains a lot of useful information gathered in one piece. It is an invaluable source of knowledge for me that I often look back on.
 
 # &nbsp;For whom?
 
-    For everyone, really. Here everyone can find their favourite tastes. But to be perfectly honest, it is aimed towards System and Network administrators, DevOps, Pentesters, and Security Researchers.
+#### For everyone, really. Here everyone can find their favourite tastes. But to be perfectly honest, it is aimed towards System and Network administrators, DevOps, Pentesters, and Security Researchers.
+
+<br> 
 
 # 🤡 &nbsp;Current Security Analysis
 
 
 
-* ## [Quick article](https://www.makeuseof.com/tag/browser-compromises-privacy/) to understanding how your browser compromises your information 
+* ### [Quick article](https://www.makeuseof.com/tag/browser-compromises-privacy/) to understanding how your browser compromises your information 
 
-* ## Try one, or both, of the tests below to determine your current data leakage
-    ### - [User Friendly test](https://coveryourtracks.eff.org/)
+* ### Try one, or both, of the tests below to determine your current data leakage
+    #### - [User Friendly test](https://coveryourtracks.eff.org/)
 
-    ### - [Advanced test](https://browserleaks.com/) 
+    #### - [Advanced test](https://browserleaks.com/) 
 
     - Take note of how many bits of information are being leaked as well as if your actual IP address/location is visible.
 
-
+<br> 
 
 
 # 🔎 Understanding web trackers
@@ -54,18 +63,21 @@
     pieces together to form a unique picture, or "fingerprint," of your device.
 
 
+<br> 
 
 # 🌐 Choosing a Browser
---Understand that this is different from PC security. VPNs and antivirus/anti-malware should be enabled at a minimum. PC security will be address in a different entry.
+
 
 ### Which browser should I use?
-* Short answer? Mozilla Firefox 
+* Short answer?  **Mozilla Firefox** 
 
     I rank Firefox second when put next to Tor browser, but for everyday use Firefox is your best bet.
 
 * Firefox is the only widely used web browser that is completely open-source.
 * Anyone can examine Firefox’s source code, making sure there are no tracking elements baked into the final product. 
     - This is completely different than browsers like Chrome, and MS Edge who collect as much as they can from it's users. Out of the box, Mozilla is much more secure than it's competitors, and better yet it gives you complete control over your security. It is also relatively lightweight and won't bog down your machine by running tens of background processes. 
+
+<br>
 
 # 🧱 Firefox Hardening
 understand that you sacrifice sonvineince when you improve security
